@@ -1,5 +1,5 @@
 {
-  name : "Nyan Min Tun",
-  age : 19,
-  isMarried : false,
+  "age" : "Nyan Min Tun",
+  "age" : 19,
+  "isMarried" : false
 }
